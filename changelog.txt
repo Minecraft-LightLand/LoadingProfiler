@@ -1,0 +1,5 @@
+0.2.0
+- Fix conflict with mods after loading
+
+0.1.9
+- Initial Release
